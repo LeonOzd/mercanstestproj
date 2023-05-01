@@ -1,0 +1,102 @@
+{
+    "data": {
+     "content": [
+      {
+       "legalEntityId": 720,
+       "requestId": 95236,
+       "requestType": "leave",
+       "requestTypeId": 656,
+       "requestTypeName": "Annual leave",
+       "requestStatus": "pending",
+       "rootEntityId": 537919,
+       "employeeId": 63583,
+       "employee": {
+        "id": 63583,
+        "firstName": "Emily",
+        "lastName": "West",
+        "middleName": null,
+        "referenceCode": "REF-EW-00904",
+        "photoAccessToken": null,
+        "lastWorkingDate": null
+       },
+       "activeWorkflowStepId": 44174,
+       "review": {
+        "id": null,
+        "employee": null,
+        "comment": null,
+        "reviewDate": null,
+        "status": "pending",
+        "workflowId": null,
+        "workflowStepId": null
+       },
+       "createdBy": "employee",
+       "createdByEmployee": {
+        "id": 63583,
+        "firstName": "Emily",
+        "lastName": "West",
+        "middleName": null,
+        "referenceCode": "REF-EW-00904",
+        "photoAccessToken": null,
+        "lastWorkingDate": null
+       },
+       "createTime": "2023-04-26 19:05:28",
+       "startDate": "2022-11-03",
+       "endDate": "2022-11-17",
+       "amount": 11,
+       "amountType": "days",
+       "overwriteType": null
+      }, 
+      {
+        "legalEntityId": 720,
+        "requestId": 95237,
+        "requestType": "leave",
+        "requestTypeId": 656,
+        "requestTypeName": "Annual leave",
+        "requestStatus": "pending",
+        "rootEntityId": 537919,
+        "employeeId": 63583,
+        "employee": {
+         "id": 63583,
+         "firstName": "Emily",
+         "lastName": "West",
+         "middleName": null,
+         "referenceCode": "REF-EW-00904",
+         "photoAccessToken": null,
+         "lastWorkingDate": null
+        },
+        "activeWorkflowStepId": 44174,
+        "review": {
+         "id": null,
+         "employee": null,
+         "comment": null,
+         "reviewDate": null,
+         "status": "pending",
+         "workflowId": null,
+         "workflowStepId": null
+        },
+        "createdBy": "employee",
+        "createdByEmployee": {
+         "id": 63583,
+         "firstName": "Emily",
+         "lastName": "West",
+         "middleName": null,
+         "referenceCode": "REF-EW-00904",
+         "photoAccessToken": null,
+         "lastWorkingDate": null
+        },
+        "createTime": "2023-04-26 20:05:28",
+        "startDate": "2022-11-20",
+        "endDate": "2022-11-24",
+        "amount": 4,
+        "amountType": "days",
+        "overwriteType": null
+      }
+     ],
+     "meta": {
+      "total": 1,
+      "nextPointer": null
+     }
+    },
+    "errors": null,
+    "status": 200
+   }

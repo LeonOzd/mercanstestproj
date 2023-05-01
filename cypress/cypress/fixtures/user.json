@@ -1,0 +1,11 @@
+{
+    "employee": {
+        "email": "demo+EW-00904@mercans.com",
+        "password": "Employee1!"
+    },
+
+    "manager": {
+        "email": "demo+VP-00104@mercans.com",
+        "password": "Manager1!"
+    }
+}
